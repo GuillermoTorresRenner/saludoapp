@@ -1,1 +1,1 @@
-# saludoapp
+Preguntas finales - ¿Qué beneficios concretos viste al automatizar la construcción con Jenkins? - ¿Qué parte del proceso crees que sería más crítica en un equipo grande? - ¿Cómo Jenkins asegura calidad antes de hacer despliegues? - ¿Qué cambiarías en este pipeline para prepararlo para producción?
